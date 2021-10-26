@@ -1,0 +1,1 @@
+document.write("<p class='legal'>Dorse&#169;, David&#169;, TBWE&#169;, BWE Holdings&#169;, and BWE Studios&#169; are registered trademarks of BWE Studios&#169;. If you use them without our permission, we will sue you.<br><br>BWE Holdings&#169; 2019-2021</p>");

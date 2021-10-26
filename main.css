@@ -1,0 +1,52 @@
+      h2 {
+        color: orangered;
+		}
+body {
+	text-align: center;
+	background-color: #00436D;
+	background-image: url("images/american flag waving.gif");
+	background-size: 26%;
+}		
+.headshadow {
+	text-shadow: 2px 2px #FF6060;
+	color: #1E3BDE;
+	font-family: theamerican; 
+	font-size: 45px;
+}
+.mainbox {
+	background-color: lightblue;
+	width: 60%;
+	min-width: 400px;
+	margin: auto;
+	border: 2px solid red;
+	border-radius: 50px;
+}
+.dorse {
+	border: 2px solid darkblue;
+	border-radius: 20px;
+	width: 90%;
+	margin-bottom: 10%;
+}
+.legal {
+	border: 2px solid black; 
+	border-radius: 7px;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 2%;
+	color: white;
+	background-color: #245776;
+}
+@font-face { 
+	font-family: americans; 
+	src: url('fonts/americans.ttf'); 
+} 
+@font-face { 
+	font-family: theamerican; 
+	src: url('fonts/the american.ttf'); 
+} 
+.david_desc_text {
+	width: 80%;
+	color: darkred;
+	text-align: center;
+	margin: auto;
+}
